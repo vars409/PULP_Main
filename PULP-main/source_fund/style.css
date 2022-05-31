@@ -1,0 +1,12 @@
+@import'/utilities.css';
+
+body{
+    background-image:url('Untitled.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100%;
+}
+
+

@@ -1,0 +1,79 @@
+.center {
+    text-align: center;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.center-half {
+    width: 500px;
+    margin-left: 300px;
+}
+.topDiv{
+	width: 100%;
+	float: left;
+	height: 100%;
+}
+.sliderSec {
+    width: 100%;
+    float: left;
+}
+.lgnSec{
+	width: 100%;
+    float: left;
+}
+
+.headerTwo {
+	padding: 30px;
+	background-color: lightblue;
+}
+
+.headerTwo h1{
+	text-align: center;
+	font-weight: 800;
+}
+.buttn{
+	float: right;
+}
+
+.signupbuttn{
+	margin: 5px;
+	align-items: center;
+	text-align: center;
+}
+.lgnbuttn{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+}
+.txtlabel{
+	font-size: 20px;
+	text-align: center;
+	align-items: center;
+}
+.lgnDiv{
+	padding: 25px;
+	background: lightblue;
+    margin: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	align-items: center;
+	width:50%;
+}
+
+.txtDiv{
+	margin: 24px;
+}
+.txtDiv input{
+	background-color: ffffff!important;
+}
+/*.lgnDiv form-group input{
+	background-color: ffffff!important;
+}*/
